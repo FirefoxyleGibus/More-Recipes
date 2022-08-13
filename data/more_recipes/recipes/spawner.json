@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IBI",
+		"BSB",
+		"IBI"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:iron_bars"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"S": {
+			"item" : "minecraft:nether_star"
+		}
+	},
+	"result": {
+		"item":"minecraft:spawner"
+	}
+}
