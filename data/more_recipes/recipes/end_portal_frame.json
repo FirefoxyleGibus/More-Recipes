@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ONO",
+		"EEE"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:end_stone"
+		},
+		"N": {
+			"item": "minecraft:netherite_ingot"
+		},
+		"O": {
+			"item" : "minecraft:obsidian"
+		}
+	},
+	"result": {
+		"item":"minecraft:end_portal_frame"
+	}
+}

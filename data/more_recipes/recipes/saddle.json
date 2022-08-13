@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CIC"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:leather"
+		},
+		"I": {
+			"item" : "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item":"minecraft:saddle"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CSC",
+		"PDP",
+		"P P"
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:diamond"
+		},
+		"P": {
+			"item": "minecraft:phantom_membrane"
+		},
+		"S": {
+			"item": "minecraft:phantom_membrane"
+		},
+		"C": {
+			"item" : "minecraft:popped_chorus_fruit"
+		}
+	},
+	"result": {
+		"item":"minecraft:elytra"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  	"type": "crafting_shapeless",
+  	"ingredients": [
+    	{
+			"item": "minecraft:glowstone_dust"
+    	},
+		[
+    		{
+				"item": "minecraft:red_mushroom_block"
+    		},
+			{
+				"item": "minecraft:brown_mushroom_block"
+    		},
+			{
+				"item": "minecraft:mushroom_stem"
+    		}
+		]
+	],
+ 	"result": {
+		"item": "minecraft:shroomlight"
+	}
+}
