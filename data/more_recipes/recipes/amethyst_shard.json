@@ -2,11 +2,11 @@
   	"type": "crafting_shapeless",
   	"ingredients": [
     	{
-			"item": "minecraft:quartz_block"
+			"item": "minecraft:amethyst_block"
     	}
 	],
  	"result": {
-		"item": "minecraft:quartz",
+		"item": "minecraft:amethyst_shard",
 		"count": 4
 	}
 }
